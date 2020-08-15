@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Glory to Hong Kong'
+project = '願榮光歸香港'
 copyright = '2020, K'
 author = 'K'
 
@@ -52,6 +52,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'insegel'
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
